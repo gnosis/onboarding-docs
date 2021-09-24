@@ -41,3 +41,7 @@ The listed resources contain quite some information and not all of them are rele
 - [ ] Gnosis Safe team portal: https://sites.google.com/gnosis.pm/gnosis-safe-team-portal/
 - [ ] Extended reading list: https://dappdaily.com/ethereum-reading-list-for-prospective-dapp-developers-15d515383b23
 - [ ] Ethereum details: https://preethikasireddy.medium.com/how-does-ethereum-work-anyway-22d1df506369
+
+To explore more on Solidity and Smart Contracts check:
+- [Solidity by Example](https://solidity-by-example.org/)
+- [Capture the Ether](https://capturetheether.com/) is a game in which you hack Ethereum smart contracts to learn about security.
