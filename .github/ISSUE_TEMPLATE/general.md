@@ -36,7 +36,7 @@ This tutorial will provide an introduction in smart contract development and how
 This is one of the libraries provided by Gnosis to show how to take advantage of the Safe contracts.
 
 ## Further resources
-- [ ] The listed resources contain quite some information and not all of them are relevant. It is still good to be aware of these:
+The listed resources contain quite some information and not all of them are relevant. It is still good to be aware of these:
 - [ ] Gnosis Safe wiki: https://github.com/gnosis/safe/wiki
 - [ ] Gnosis Safe team portal: https://sites.google.com/gnosis.pm/gnosis-safe-team-portal/
 - [ ] Extended reading list: https://dappdaily.com/ethereum-reading-list-for-prospective-dapp-developers-15d515383b23
