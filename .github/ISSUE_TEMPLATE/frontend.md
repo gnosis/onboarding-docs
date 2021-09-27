@@ -5,6 +5,14 @@ about: Onboarding items for frontend developers
 
 # Gnosis Frontend Onboarding
 
+First of all, you'll need to set up your local environment.
+
+* [ ] Install brew (if on mac)
+* [ ] Install Node.js from brew
+* [ ] Install yarn
+* [ ] Configure your local git and your GitHub account (see https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-email-preferences/setting-your-commit-email-address)
+* [ ] Add your username to the [CLA list](https://github.com/gnosis/safe-react/blob/dev/.github/workflows/cla.yml#L24)
+
 ## Safe App
 
 Write a simple [Safe app](https://docs.gnosis.io/safe/docs/sdks_safe_apps/) using the knowledge from the general onboarding.
