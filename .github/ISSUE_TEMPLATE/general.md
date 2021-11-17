@@ -45,3 +45,7 @@ The listed resources contain quite some information and not all of them are rele
 To explore more on Solidity and Smart Contracts check:
 - [Solidity by Example](https://solidity-by-example.org/)
 - [Capture the Ether](https://capturetheether.com/) is a game in which you hack Ethereum smart contracts to learn about security.
+
+## Newcomer Safe
+Ask the team to replace the Owner
+- https://docs.google.com/document/d/1K-rlJKMKZMJJS8kLcpoj_TFFrIr5qNgegn_NP31j6cY/edit?usp=sharing
